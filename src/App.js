@@ -22,12 +22,6 @@ function App() {
 
   return (
     <div>
-      <div className="">
-       <input type="checkbox" id="roy" name="roy" value="ROY-ED"/>
-       <input type="checkbox" id="ran" name="ran" value="ROY-ED"/>
-       <input type="checkbox" id="ray" name="ray" value="ROY-ED"/>
-       <input type="checkbox" id="yal" name="yal" value="ROY-ED"/>
-      </div>
       {/* {data?.ROY?.map(val => (
         <div>{val}</div>
       ))} */}
